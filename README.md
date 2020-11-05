@@ -7,7 +7,7 @@ Its deployed in the cloud can access with below location
 
 ## Running MicroUrl on local
 ```
-	git clone https://github.intuit.com/dchaudhari/microurl.git
+	git clone https://github.com/deepakchaudhari/MicroUrl.git
 	cd microurl
 	./mvnw spring-boot:run
 	
